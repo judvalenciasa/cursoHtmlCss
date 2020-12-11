@@ -1,0 +1,16 @@
+*{
+    font-family: 'lobster', cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.etiqueta_H2{
+    display: inline;
+    height: 400px;
+    width: 500px;
+}
+
+p{
+    width: 50px;
+    height: 100px;
+}
