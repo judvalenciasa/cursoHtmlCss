@@ -1,0 +1,18 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+body{
+    padding-top:100px;
+}
+
+
+.caja-fixed{
+    background-color: red;
+    position: fixed;
+    width: 230px;
+    top: 20px;
+    opacity: 0.6;
+    margin-top: -100px;
+}
